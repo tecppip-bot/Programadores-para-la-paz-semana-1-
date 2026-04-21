@@ -1,0 +1,6 @@
+1 Buscar el origen de la información  
+2 Buscar la información 
+3 Entender que ocasiona la información 
+4 Saber quien o que publica la información 
+5 Confirmar la noticia 
+6 Opinar  la noticia 
