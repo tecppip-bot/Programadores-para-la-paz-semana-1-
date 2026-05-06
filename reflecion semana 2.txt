@@ -1,0 +1,4 @@
+Es fundamental fortalecer el uso de la terminal porque allí se concentran las herramientas necesarias para ejecutar múltiples tareas sin depender de saltar entre páginas o interfaces externas. Al trabajar directamente desde este entorno, las soluciones se vuelven más ágiles y precisas, ya que todo el flujo de actividades se puede realizar en un mismo lugar.
+Además, la organización de archivos dentro de un proyecto cobra gran relevancia: permite mantener una trazabilidad clara de cada modificación y conservar un historial constante de los cambios realizados. De esta manera, se evita la pérdida de información con el paso del tiempo o por la edición repetida de un mismo documento.
+
+trabajo apoyado con ia ya vamos avanazanso 

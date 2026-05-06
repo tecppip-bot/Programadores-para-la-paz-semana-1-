@@ -1,0 +1,36 @@
+Checklist de accesibilidad – Formulario Participa
+
+Nombre del estudiante: deisy molano 
+Fecha:29-4-2026..
+Nombre de la rama:deisy_molano
+
+1. ¿El formulario tiene un título claro?
+Respuesta: si es claro 
+
+2. ¿El formulario explica para qué se usará la información?
+Respuesta: si 
+
+3. ¿Cada campo tiene un label o etiqueta visible?
+Respuesta:si 
+
+4. ¿El lenguaje usado es sencillo y comprensible?
+Respuesta:si 
+
+5. ¿El formulario evita pedir datos innecesarios?
+Respuesta:si
+
+6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
+Respuesta:si
+
+7. ¿El formulario incluye una casilla o mensaje de consentimiento?
+Respuesta:si
+
+8. ¿El botón de envío tiene un texto claro?
+Respuesta:si 
+
+9. ¿La página se puede leer con facilidad?
+Respuesta:si
+
+10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
+Respuesta:si
+
