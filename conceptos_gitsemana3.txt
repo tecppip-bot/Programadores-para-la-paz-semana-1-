@@ -1,0 +1,8 @@
+Repositorio 
+el repositorio es un lugar donde podemos publicar todo tipo de actividades y cambios de un archivo de programación en donde tenemos un registro de todo lo realizado 
+
+commit 
+un commit es un modelo de guardado de cada cambio y re ubicación que haga en el proceso sin perder los datos antiguos que se utilizaron en el proceso evitando perdida de información 
+
+push 
+el push es la actividad realizada para cargar la información modificada al formato digital que guarda toda información descrito anteriormente como repositorio 
